@@ -1,4 +1,4 @@
-# Large Language Models for Operations Research (LLM4OR)
+# Large Language Models for Operations Research
 
 
 I currently focus on leveraging large language models for solving operations research problmes, including
