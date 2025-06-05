@@ -1,7 +1,17 @@
 # Large Language Models for Operations Research (LLM4OR)
 
+
+I currently focus on leveraging large language models for solving operations research problmes, including
+- [Integer Programming](#IP)
+- [Dynamic Programming](#DP)
+ 
   
 <strong> Last Update: 2025/06/05 </strong>
+
+
+<a name="IP" />
+
+## Integer Programming
 
 
 
@@ -39,6 +49,12 @@
 - [2023] Large language models are human-level prompt engineers, ICLR  [[Paper](https://openreview.net/forum?id=92gvk82DE-)]
 - [2023] Automatic Prompt Optimization with "Gradient Descent" and Beam Search, EMNLP [[Paper](https://openreview.net/forum?id=WRYhaSrThy)]
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
+
+
+<a name="DP" />
+
+## Dynamic Programming
+
 
 
 
