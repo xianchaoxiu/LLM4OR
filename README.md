@@ -2,11 +2,21 @@
 
 
 I currently focus on leveraging large language models for solving operations research problmes, including
+- [Surveys](#Surveys)
 - [Integer Programming](#IP)
 - [Dynamic Programming](#DP)
  
   
-<strong> Last Update: 2025/06/05 </strong>
+<strong> Last Update: 2025/06/07 </strong>
+
+
+
+<a name="Surveys" />
+
+## Surveys 
+- [2025] A Survey on Mathematical Reasoning and Optimization with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.17726)] 
+- [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
+- [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 
 
 <a name="IP" />
@@ -26,7 +36,6 @@ I currently focus on leveraging large language models for solving operations res
 - [2024] Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation, IJCAI  [[Paper](https://www.ijcai.org/proceedings/2024/0579.pdf)]
 - [2024] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
 - [2024] StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving, NeurIPS [[Paper](https://arxiv.org/abs/2311.08803)]
-- [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
 - [2024] Formal Mathematical Reasoning: A New Frontier in AI, arXiv [[Paper](https://arxiv.org/abs/2412.16075)]
 - [2024] Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark, ICML [[Paper](https://arxiv.org/abs/2402.11592)]
 - [2024] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
@@ -46,7 +55,7 @@ I currently focus on leveraging large language models for solving operations res
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]  [[Code](https://github.com/FeiLiu36/LLM4MOEA)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
-- [2023] Large language models are human-level prompt engineers, ICLR  [[Paper](https://openreview.net/forum?id=92gvk82DE-)]
+- [2023] Large Language Models are Human-Level prompt Engineers, ICLR  [[Paper](https://openreview.net/forum?id=92gvk82DE-)]
 - [2023] Automatic Prompt Optimization with "Gradient Descent" and Beam Search, EMNLP [[Paper](https://openreview.net/forum?id=WRYhaSrThy)]
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
