@@ -23,7 +23,7 @@ I currently focus on leveraging large language models for solving optimization p
 <a name="IP" />
 
 ## Integer Programming
-- [2025] OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2503.10009)]  [[Code](https://github.com/bwz96sco/or llm agent)]
+- [2025] OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2503.10009)] 
 - [2025] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, OR [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
 - [2025] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
