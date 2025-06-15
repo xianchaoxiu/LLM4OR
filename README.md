@@ -1,7 +1,7 @@
-# Large Language Models for Optimization
+# Large Language Models for Operations Research
 
 
-I currently focus on leveraging large language models for solving optimization problmes, including
+I currently focus on leveraging large language models for solving operations research problmes, including
 - [Surveys](#Surveys)
 - [Integer Programming](#IP)
 - [Dynamic Programming](#DP)
@@ -18,6 +18,7 @@ I currently focus on leveraging large language models for solving optimization p
 - [2025] A Survey on Mathematical Reasoning and Optimization with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.17726)] 
 - [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
+- [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
 
 
 <a name="IP" />
