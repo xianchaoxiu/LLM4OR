@@ -1,7 +1,7 @@
 # Large Language Models for Operations Research
 
 
-I currently focus on leveraging large language models for operations research, including
+I currently focus on leveraging Large Language Models for Operations Research, including
 - [Surveys](#Surveys)
 - [Integer Programming](#IP)
 - [Dynamic Programming](#DP)
