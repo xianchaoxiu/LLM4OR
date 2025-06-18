@@ -3,8 +3,8 @@
 
 I currently focus on leveraging Large Language Models for Operations Research, including
 - [Surveys](#Surveys)
-- [Integer Programming](#IP)
-- [Dynamic Programming](#DP)
+- [Mathematical Resoning](#MR)
+- [Algorithm Design](#AD)
  
   
 <strong> Last Update: 2025/06/07 </strong>
@@ -21,9 +21,9 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 - [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
 
 
-<a name="IP" />
+<a name="MR" />
 
-## Integer Programming
+## Mathematical Resoning
 - [2025] OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2503.10009)] 
 - [2025] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, OR [[Paper](https://arxiv.org/abs/2405.17743)]  [[Code](https://github.com/Cardinal-Operations/ORLM)]
 - [2025] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
@@ -60,9 +60,9 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
 
-<a name="DP" />
+<a name="AD" />
 
-## Dynamic Programming
+## Algorithm Design
 
 
 
