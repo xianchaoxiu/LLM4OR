@@ -5,6 +5,7 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 - [Surveys](#Surveys)
 - [Mathematical Resoning](#MR)
 - [Algorithm Design](#AD)
+- [Enhancement Techniques](#ET)
  
   
 <strong> Last Update: 2025/06/07 </strong>
