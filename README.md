@@ -82,7 +82,7 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 We welcome feedback, suggestions, and contributions that can help improve this repository so as to benefit the entire community. If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
 
 ```markdown
-Paper Title, <ins>Conference/Journal/Preprint, Year</ins>  [[pdf](link)] [[other resources](link)].
+[Year] Paper Title, Conference/Journal/Preprint, [[Paper](link)] [[Code](link)]
 ```
 
 
