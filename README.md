@@ -79,4 +79,4 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 
 ## Ackonwledgements
 
-This repository is maintained by <ins>[xianchaoxiu](https://github.com/xianchaoxiu)</ins> (xcxiu@shu.edu.cn) and <ins>[mi-zhang](https://github.com/mi-zhang)</ins> (mizhang.1@osu.edu). 
+This repository is maintained by <ins>[xianchaoxiu](https://github.com/xianchaoxiu)</ins> and <ins>[mi-zhang](https://github.com/joker2022222)</ins>. 
