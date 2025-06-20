@@ -77,8 +77,6 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 ## Benchmark Datasets
 
 
-## About Us
+## Star History
 
-<div align=center>
-<img src="figures/qrcode.jpg" width = "180" height = "180">
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=xianchaoxiu/Large-Language-Models-for-Operations-Research&type=Date)](https://star-history.com/#xianchaoxiu/Large-Language-Models-for-Operations-Research)
