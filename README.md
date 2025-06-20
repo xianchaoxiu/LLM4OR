@@ -77,7 +77,7 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 ## Benchmark Datasets
 
 
-## About us
+## About Us
 
 <div align=center>
 <img src="figures/qrcode.jpg" width = "180" height = "180">
