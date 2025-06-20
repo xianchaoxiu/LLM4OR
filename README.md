@@ -77,12 +77,8 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 ## Benchmark Datasets
 
 
-## Ackonwledgements
+## About us
 
-If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
-
-```markdown
-[Year] Title, Journal/Conference/Preprint, [[Paper](link)] [[Code](link)]
-```
-
-
+<div align=center>
+<img src="figures/qrcode.jpeg" width = "180" height = "180">
+</div>
