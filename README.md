@@ -77,7 +77,12 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 ## Benchmark Datasets
 
 
-## Star History
+## Ackonwledgements
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xianchaoxiu/Large-Language-Models-for-Operations-Research&type=Date)](https://star-history.com/#xianchaoxiu/Large-Language-Models-for-Operations-Research)
+If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue, feel free to send us an email or submit a **pull request** using the following markdown format.
+
+```markdown
+[Year] Title, Journal/Conference/Preprint, [[Paper](link)] [[Code](link)]
+```
+
 
