@@ -76,3 +76,61 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 
 ## Benchmark Datasets
 
+
+## 致谢
+
+**核心贡献者**
+
+- [邹雨衡-项目负责人](https://github.com/logan-zou)（Datawhale成员-对外经济贸易大学研究生）
+- [左春生-项目负责人](https://github.com/LinChentang)（内容创作者-Datawhale成员）
+- [长琴-项目发起人](https://yam.gift/)（内容创作者-Datawhale成员-AI算法工程师）
+- [玉琳-项目发起人](https://github.com/Sophia-Huang)（内容创作者-Datawhale成员）
+- [徐虎-教程编撰者](https://github.com/xuhu0115)（内容创作者-Datawhale成员）
+- [刘伟鸿-教程编撰者](https://github.com/Weihong-Liu)（内容创作者-江南大学非全研究生）
+- [Joye-教程编撰者](https://Joyenjoye.com)（内容创作者-数据科学家）
+- [高立业](https://github.com/0-yy-0)（内容创作者-DataWhale成员-算法工程师）
+- [邓宇文](https://github.com/GKDGKD)（内容创作者-Datawhale成员）
+- [魂兮](https://github.com/wisdom-pan)（内容创作者-前端工程师）
+- [宋志学](https://github.com/KMnO4-zx)（内容创作者-Datawhale成员）
+- [韩颐堃](https://github.com/YikunHan42)（内容创作者-Datawhale成员）
+- [陈逸涵](https://github.com/6forwater29) (内容创作者-Datawhale意向成员-AI爱好者)
+- [仲泰](https://github.com/ztgg0228)（内容创作者-Datawhale成员）
+- [万礼行](https://github.com/leason-wan)（内容创作者-视频翻译者）
+- [王熠明](https://github.com/Bald0Wang)（内容创作者-Datawhale成员）
+- [曾浩龙](https://yetingyun.blog.csdn.net)（内容创作者-Datawhale 意向成员-JLU AI 研究生）
+- [小饭同学](https://github.com/xinqi-fan)（内容创作者）
+- [孙韩玉](https://github.com/sunhanyu714)（内容创作者-算法量化部署工程师）
+- [张银晗](https://github.com/YinHan-Zhang)（内容创作者-Datawhale成员）
+- [张晋](https://github.com/Jin-Zhang-Yaoguang)（内容创作者-Datawhale成员）
+- [李娇娇](https://github.com/Aphasia0515)（内容创作者-Datawhale成员）
+- [邓恺俊](https://github.com/Kedreamix)（内容创作者-Datawhale成员）
+- [范致远](https://github.com/Zhiyuan-Fan)（内容创作者-Datawhale成员）
+- [周景林](https://github.com/Beyondzjl)（内容创作者-Datawhale成员）
+- [诸世纪](https://github.com/very-very-very)（内容创作者-算法工程师）
+- [Zhang Yixin](https://github.com/YixinZ-NUS)（内容创作者-IT爱好者）
+- Sarai（内容创作者-AI应用爱好者）
+
+**其他**
+
+1. 特别感谢 [@Sm1les](https://github.com/Sm1les)、[@LSGOMYP](https://github.com/LSGOMYP) 对本项目的帮助与支持；
+2. 感谢 [GithubDaily](https://github.com/GitHubDaily) 提供的双语字幕；
+3. 如果有任何想法可以联系我们 Datawhale 也欢迎大家多多提出 Issues；
+4. 特别感谢以下为教程做出贡献的同学！
+
+<a href="https://datawhalechina.github.io/llm-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=datawhalechina/llm-cookbook" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/llm-cookbook&type=Date)](https://star-history.com/#datawhalechina/llm-cookbook&Date)
+
+## 关注我们
+
+<div align=center>
+<p>扫描下方二维码关注公众号：Datawhale</p>
+<img src="figures/qrcode.jpeg" width = "180" height = "180">
+</div>
+
