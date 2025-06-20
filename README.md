@@ -1,7 +1,7 @@
-# Large Language Models for Operations Research
+# Large Language Models for Optimization
 
 
-I currently focus on leveraging Large Language Models for Operations Research, including
+I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
 - [Mathematical Resoning](#MR)
 - [Algorithm Design](#AD)
