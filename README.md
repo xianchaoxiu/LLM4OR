@@ -80,5 +80,5 @@ I currently focus on leveraging Large Language Models for Operations Research, i
 ## About us
 
 <div align=center>
-<img src="figures/qrcode.jpeg" width = "180" height = "180">
+<img src="figures/qrcode.jpg" width = "180" height = "180">
 </div>
