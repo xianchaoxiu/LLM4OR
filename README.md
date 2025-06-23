@@ -79,4 +79,4 @@ I currently focus on leveraging large language models for optimization, includin
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xianchaoxiu/Large-Language-Models-for-Operations-Research&type=Date)](https://star-history.com/#xianchaoxiu/Large-Language-Models-for-Operations-Research)
+[![Star History Chart](https://api.star-history.com/svg?repos=xianchaoxiu/Large-Language-Models-for-Optimization&type=Date)](https://star-history.com/#xianchaoxiu/Large-Language-Models-for-Optimization)
