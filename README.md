@@ -4,7 +4,9 @@
 I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
 - [Optimazation Modeling](#OM)
-- [Combinatorial Optimization](#CO)
+- [Combinatorial Optimization](#CombO)
+- [Continuous Optimization](#ContO)
+- [Bayesian Optimization](#BO)
 - [Enhancement Techniques](#ET)
 - [Benchmark Datasets](#BD)
  
@@ -62,9 +64,19 @@ I currently focus on leveraging large language models for optimization, includin
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
 
-<a name="CO" />
+<a name="CombO" />
 
 ## Combinatorial Optimization
+
+
+<a name="ContO" />
+
+## Continuous Optimization
+
+
+<a name="BO" />
+
+## Bayesian Optimization
 
 
 <a name="ET" />
