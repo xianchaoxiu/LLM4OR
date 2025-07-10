@@ -3,13 +3,13 @@
 
 I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
-- [Mathematical Resoning](#MR)
-- [Algorithm Design](#AD)
+- [Optimazation Modeling](#OM)
+- [Combinatorial Optimization](#CO)
 - [Enhancement Techniques](#ET)
 - [Benchmark Datasets](#BD)
  
   
-<strong> Last Update: 2025/06/18 </strong>
+<strong> Last Update: 2025/07/10 </strong>
 
 
 
@@ -62,9 +62,9 @@ I currently focus on leveraging large language models for optimization, includin
 - [2022] NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a.html)]
 
 
-<a name="AD" />
+<a name="CO" />
 
-## Algorithm Design
+## Combinatorial Optimization
 
 
 <a name="ET" />
