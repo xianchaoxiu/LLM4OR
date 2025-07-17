@@ -3,10 +3,12 @@
 
 I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
-- [Discrete Optimization](#DisO)
 - [Continuous Optimization](#ConO)
-- [Bayesian Optimization](#BO)
-- [Exact Methods](#EM)
+- [Discrete Optimization](#DisO)
+- [Exact Methods](#E)
+- [Gradient-Based Methods](#GB)
+- [Interior‐Point & Penalty Methods](#IP&P)
+- [Surrogate‐Based & Sampling Methods](SB&S#)
 - [Enhancement Techniques](#ET)
 - [Benchmark Datasets](#BD)
  
