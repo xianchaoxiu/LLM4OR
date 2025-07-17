@@ -3,10 +3,11 @@
 
 I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
-- [Optimazation Modeling](#OM)
 - [Combinatorial Optimization](#CombO)
 - [Continuous Optimization](#ContO)
+- [Algorithmic Paradigm](#AP)
 - [Bayesian Optimization](#BO)
+- [Optimazation Modeling](#OM)
 - [Enhancement Techniques](#ET)
 - [Benchmark Datasets](#BD)
  
