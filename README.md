@@ -22,7 +22,7 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="Surveys" />
 
 ## Surveys 
-- [2025] Large Language Models For Combinatorial Optimiza: A Systematic Review, arXiv [[Paper]((https://arxiv.org/abs/2507.03637))]
+- [2025] Large Language Models For Combinatorial Optimiza: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
 - [2025] A Survey of LLM × DATA, arXiv [[Paper](https://arxiv.org/abs/2505.18458)]  [[Code](https://github.com/weAIDB/awesome-data-llm)]
 - [2025] A Survey on Mathematical Reasoning and Optimization with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.17726)]
 - [2025] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
