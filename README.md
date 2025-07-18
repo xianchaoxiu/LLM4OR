@@ -63,7 +63,7 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="ConO" />
 
 ## Continuous Optimization
-- [2025] LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics, IEEE TEC  [[Paper]([https://openreview.net/forum?id=92gvk82DE-](https://ieeexplore.ieee.org/document/10752628))]
+- [2025] LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics, IEEE TEC  [[Paper](https://ieeexplore.ieee.org/document/10752628)]
 
 
 
