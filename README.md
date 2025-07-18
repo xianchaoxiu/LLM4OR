@@ -29,6 +29,9 @@ I currently focus on leveraging large language models for optimization, includin
 - [2024] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
+- [2024] Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective, IEEE IJCNN [[Paper](https://ieeexplore.ieee.org/abstract/document/10649965)]
+- [2024] Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, IEEE ICIC [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_18)]
+
 
 
 
@@ -69,6 +72,8 @@ I currently focus on leveraging large language models for optimization, includin
 - [2024] Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study, SEC  [[Paper](https://www.sciencedirect.com/science/article/pii/S2210650224002797)]
 - [2024] Large language models as evolution strategies, ACM GECCO  [[Paper](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]
 - [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
+- [2023] Leveraging Large Language Models for the Generation of Novel Metaheuristic Optimization Algorithms, ACM GECOO [[Paper](https://dl.acm.org/doi/abs/10.1145/3583133.3596401)]
+- [2023] Investigating the Potential of AI-Driven Innovations for Enhancing Differential Evolution in Optimization Tasks, IEEE SMC [[Paper](https://ieeexplore.ieee.org/abstract/document/10394233)] 
 
 
 <a name="CO" />
