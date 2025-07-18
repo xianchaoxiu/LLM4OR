@@ -4,7 +4,7 @@
 I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
 - [Continuous Optimization](#ConO)
-- [Combinatorial OPtimization](#CO)
+- [Combinatorial Optimization](#CO)
 - [Exact Methods](#EM)
 - [Gradient-Based Methods](#GB)
 - [Interior‐Point & Penalty Methods](#IP&P)
