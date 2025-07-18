@@ -64,7 +64,7 @@ I currently focus on leveraging large language models for optimization, includin
 
 ## Continuous Optimization
 - [2025] LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics, IEEE TEC  [[Paper](https://ieeexplore.ieee.org/document/10752628)]
-- [2025] Large language models as evolution strategies, ACM GECCO  [[Paper](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]
+- [2024] Large language models as evolution strategies, ACM GECCO  [[Paper](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]
 
 
 
