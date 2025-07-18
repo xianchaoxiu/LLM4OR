@@ -49,7 +49,7 @@ I currently focus on leveraging large language models for optimization, includin
 - [2024] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations, COLM [[Paper](https://openreview.net/forum?id=BAakY1hNKS#discussion)] 
 - [2024] Llemma: An Open Language Model For Mathematics, ICLR [[Paper](https://arxiv.org/abs/2310.10631)] [[Code](https://github.com/EleutherAI/math-lm)]
 - [2024] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)]
-- [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
+
 - [2023] Automatically Auditing Large Language Models via Discrete Optimization, ICML [[Paper](https://proceedings.mlr.press/v202/jones23a.html)] 
 - [2023] Large Language Model for Multi-objective Evolutionary Optimization, arXiv [[Paper](https://arxiv.org/abs/2310.12541)]  [[Code](https://github.com/FeiLiu36/LLM4MOEA)]
 - [2023] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
@@ -64,8 +64,10 @@ I currently focus on leveraging large language models for optimization, includin
 
 ## Continuous Optimization
 - [2025] LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics, IEEE TEC  [[Paper](https://ieeexplore.ieee.org/document/10752628)]
+- [2025] Large Language Model-Based Evolutionary Optimizer: Reasoning with elitism, Elsevier Neurocomputing  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224020435)]
+- [2024] Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study, SEC  [[Paper](https://www.sciencedirect.com/science/article/pii/S2210650224002797)]
 - [2024] Large language models as evolution strategies, ACM GECCO  [[Paper](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]
-
+- [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
 
 
 <a name="CO" />
