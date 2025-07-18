@@ -70,8 +70,10 @@ I currently focus on leveraging large language models for optimization, includin
 - [2024] Large Language Models as Surrogate Models in Evolutionary Algorithms: A Preliminary Study, SEC  [[Paper](https://www.sciencedirect.com/science/article/pii/S2210650224002797)]
 - [2024] Large language models as evolution strategies, ACM GECCO  [[Paper](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]
 - [2024] Large Language Models as Optimizers, ICLR [[Paper](https://arxiv.org/abs/2309.03409)] [[Code](https://github.com/google-deepmind/opro)]
+- [2024] When large language model meets optimization, Elsevier SEC  [[Paper](https://www.sciencedirect.com/science/article/pii/S2210650224002013)]
 - [2023] Leveraging Large Language Models for the Generation of Novel Metaheuristic Optimization Algorithms, ACM GECOO [[Paper](https://dl.acm.org/doi/abs/10.1145/3583133.3596401)]
-- [2023] Investigating the Potential of AI-Driven Innovations for Enhancing Differential Evolution in Optimization Tasks, IEEE SMC [[Paper](https://ieeexplore.ieee.org/abstract/document/10394233)] 
+- [2023] Investigating the Potential of AI-Driven Innovations for Enhancing Differential Evolution in Optimization Tasks, IEEE SMC [[Paper](https://ieeexplore.ieee.org/abstract/document/10394233)]
+
 
 
 <a name="CO" />
