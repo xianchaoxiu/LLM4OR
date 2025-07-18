@@ -33,9 +33,9 @@ I currently focus on leveraging large language models for optimization, includin
 
 
 
-<a name="MR" />
+<a name="Unclassified" />
 
-## Mathematical Resoning
+## Unclassfied
 - [2025] Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback, arXiv [[Paper](https://arxiv.org/abs/2501.10799)]
 - [2025] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
 - [2024] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, arXiv [[Paper](https://arxiv.org/abs/2403.01131)]  [[Code](https://anonymous.4open.science/r/LLaMoCo-722A)]
