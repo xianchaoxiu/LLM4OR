@@ -19,6 +19,7 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="Surveys" />
 
 ## Surveys 
+- [2025] 组合优化问题的机器学习求解方法, 中国科学：数学 [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=0eC8MkjONMF22O_8ZV904QG42sq6G1NnD79RJp0mZIiDXOkm6HD5KA8AS-kLes3XlqFkt9Hf5i929LNNlS7Mb52hOu3WsmRoOawCQgDETQos3OQpJJPknKu2VDheCI807svvuHH1lSny6qFVbkxWa0kcgGme3wppLp02a9gttJx8Q2elwl9FQQ==&uniplatform=NZKPT&language=CHS)]
 - [2025] Large Language Models For Combinatorial Optimiza: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
 - [2025] A Survey of LLM × DATA, arXiv [[Paper](https://arxiv.org/abs/2505.18458)]  [[Code](https://github.com/weAIDB/awesome-data-llm)]
 - [2025] A Survey on Mathematical Reasoning and Optimization with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.17726)]
