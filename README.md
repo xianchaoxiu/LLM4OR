@@ -3,17 +3,14 @@
 
 I currently focus on leveraging large language models for optimization, including
 - [Surveys](#Surveys)
-- [Continuous Optimization](#ConO)
-- [Combinatorial Optimization](#CO)
-- [Exact Methods](#EM)
-- [Gradient-Based Methods](#GB)
-- [Interior‐Point & Penalty Methods](#IP&P)
-- [Surrogate‐Based & Sampling Methods](SB&S#)
-- [Enhancement Techniques](#ET)
-- [Benchmark Datasets](#BD)
+- [Model Construction](#MO)
+- [Algorithm Design](#AD)
+- [Solution Verification](#SV)
+- [Scene Application](#SA)
+
  
   
-<strong> Last Update: 2025/07/18 </strong>
+<strong> Last Update: 2025/11/13 </strong>
 
 
 
