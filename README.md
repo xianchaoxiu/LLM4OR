@@ -10,7 +10,7 @@ I currently focus on leveraging large language models for optimization, includin
 
  
   
-<strong> Last Update: 2025/11/13 </strong>
+<strong> Last Update: 2025/11/17 </strong>
 
 
 
@@ -150,12 +150,31 @@ I currently focus on leveraging large language models for optimization, includin
 
 
 
-
-
-
 <a name="SV" />
 
 ## Solution Verification
+- [23.11] Dagnosing infeasible optimization problems using large language models, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2385189)]
+- [24.02] Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, ICLR [[Paper](https://openreview.net/forum?id=HobyL1B9CZ)]
+- [24.07] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://arxiv.org/abs/2407.19633)]
+- [24.08] Optimization modeling and verification from problem specifications using a multi-agent multi-stage LLM framework, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2381306)]
+- [25.04] OptimAI: Optimization from natural language using LLM-powered ai agents, arXiv [[Paper](https://arxiv.org/abs/2504.16918)]
+- [23.05] Towards an Automatic Optimisation Model Generator Assisted with Generative Pre-trained Transformer, arXiv [[Paper](https://arxiv.org/abs/2305.05811)]
+- [25.06] HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.07972)]
+- [25.06] REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2506.07972)]
+- [24.12] Unifying All Species: LLM-based Hyper-Heuristics for Multi-objective Optimization, openreview [[Paper](https://openreview.net/forum?id=sUywd7UhFT)]
+- [25.07] Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms, ACM GECCO [[Paper](https://dl.acm.org/doi/abs/10.1145/3712256.3726328)]
+- [24.08] From Words to Routes: Applying Large Language Models to Vehicle Routing, CoRR [[Paper](https://openreview.net/forum?id=lmJzeVNyyA)]
+- [25.08] Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, ACM SIGKDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3736923)]
+- [25.02] Abstract Operations Research Modeling Using Natural Language Inputs, MDPI [[Paper](https://www.mdpi.com/2078-2489/16/2/128)]
+- [24.07] Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges, arXiv [[Paper](https://arxiv.org/abs/2407.00092)]
+- [25.02] MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications, arXiv [[Paper](https://arxiv.org/abs/2502.18540)]
+- [25.06] HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges, arXiv [[Paper](https://arxiv.org/abs/2506.15196)]
+- [25.06] ORMind: A Cognitive-Inspired End-to-End Reasoning Framework for Operations Research, arXiv [[Paper](https://arxiv.org/abs/2506.01326)]
+- [25.10] CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2510.04204)]
+- [25.05] Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2505.11792)]
+- [24.10] Automatic Algorithm Design Assisted by LLMs for Solving Vehicle Routing Problems, IEEE ICSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10846261)]
+
+
 
 
 <a name="SA" />
