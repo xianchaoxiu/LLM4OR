@@ -41,6 +41,7 @@ I currently focus on leveraging large language models for optimization, includin
 
 
 
+
 <a name="MO" />
 
 ## Model Construction
@@ -81,7 +82,7 @@ I currently focus on leveraging large language models for optimization, includin
 - [25.07] Auto-Formulating Dynamic Programming Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2507.11737)]
 - [25.05] OptMATH: A Scalable Bidirectional Data Synthesis Framework for Optimization Modeling, arXiv [[Paper](https://openreview.net/forum?id=9P5e6iE4WK)]
 - [24.01] Solving General Natural-Language-Description Optimization Problems with Large Language Models, NAACL [[Paper](https://openreview.net/forum?id=9P5e6iE4WK)]
-- [25.02] Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR, [[Paper](https://openreview.net/forum?id=aapUBU9U0D)]
+- [25.02] Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR,Openreview [[Paper](https://openreview.net/forum?id=aapUBU9U0D)]
 - [25.03] Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc, arXiv [[Paper](https://arxiv.org/abs/2503.10642)]
 - [25.04] Evaluating LLM Reasoning in the Operations Research Domain with ORQA, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34673)]
 - [25.06] CP-Bench: Evaluating Large Language Models for Constraint Modelling, arXiv [[Paper](https://arxiv.org/abs/2506.06052)]
@@ -92,6 +93,61 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="AD" />
 
 ## Algorithm Design
+- [25.05] RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2505.20242)]
+- [25.03] Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms, arXiv [[Paper](https://arxiv.org/abs/2503.10968)]
+- [25.04] Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search, arXiv [[Paper](https://arxiv.org/abs/2504.19636)]
+- [25.04] Evolve Cost-Aware Acquisition Functions Using Large Language Models, PPSN [[Paper](https://doi.org/10.1007/978-3-031-70068-2_23)]
+- [25.03] PAIR: A Novel Large Language Model-Guided Selection Strategy for Evolutionary Algorithms, PPSN [[Paper](https://arxiv.org/abs/2503.03239)]
+- [23.11] Evolution Through Large Models, Springer Nature Link [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_18)]
+- [24.10] Deep Insights into Automated Optimization with Large Language Models and Evolutionary Algorithms, arXiv [[Paper](https://arxiv.org/abs/2410.20848)]
+- [25.05] Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization, arXiv [[Paper](https://arxiv.org/abs/2505.20881)]
+- [25.02] Improving Existing Optimization Algorithms with LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.08298)]
+- [25.06] EALG: Evolutionary Adversarial Generation of Language Model-Guided Generators for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.02594)]
+- [24.08] Large language model-enhanced algorithm selection: towards comprehensive algorithm representation, ACM IJCAI [[Paper](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/579)]
+- [23.12] Mathematical discoveries from program search with large language models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06924-6)]
+- [24.12] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
+- [23.11] Algorithm Evolution Using Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2311.15249)]
+- [25.04] In-the-loop Hyper-Parameter Optimization for LLM-Based Automated Design of Heuristics, ACM TELO [[Paper](https://arxiv.org/abs/2311.15249)]
+- [25.04] Multi-Objective Evolution of Heuristic Using Large Language Model, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34922)]
+- [24.07] Evolution of heuristics: towards efficient automatic algorithm design using large language model, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3692070.3693374)]
+- [24.12] ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution, NeruIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/4ced59d480e07d290b6f29fc8798f195-Paper-Conference.pdf)]
+- [24.12] QUBE: Enhancing Automatic Heuristic Design via Quality-Uncertainty Balanced Evolution, arXiv [[Paper](https://arxiv.org/abs/2412.20694)]
+- [24.02] AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.10705)]
+- [25.04] HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34898)]
+- [25.05] Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems, ICML [[Paper](https://openreview.net/forum?id=teUg2pMrF0)]
+- [24.05] The Importance of Directional Feedback for LLM-based Optimizers, arXiv [[Paper](https://arxiv.org/abs/2405.16434)]
+- [25.06] STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.11057)]
+- [24.07] GraphArena: Evaluating and Exploring Large Language Models on Graph Computation, arXiv [[Paper](https://arxiv.org/abs/2407.00379)]
+- [24.05] Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo, arXiv [[Paper](https://arxiv.org/abs/2405.01997)]
+- [25.02] GraphThought: Graph Combinatorial Optimization with Thought Generation, arXiv [[Paper](https://arxiv.org/abs/2502.11607)]
+- [24.10] GCoder: Improving Large Language Model for Generalized Graph Problem Solving, arXiv [[Paper](https://arxiv.org/abs/2410.19084)]
+- [25.04] Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning, arXiv [[Paper](https://arxiv.org/abs/2504.05108)]
+- [25.05] CALM: Co-evolution of Algorithms and Language Model for Automatic Heuristic Design, arXiv [[Paper](https://arxiv.org/abs/2505.12285)]
+- [24.11] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEC [[Paper](https://ieeexplore.ieee.org/abstract/document/10767756)]
+- [24.05] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
+- [24.03] Identify Critical Nodes in Complex Network with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2403.03962)]
+- [24.09] TS-EoH: An Edge Server Task Scheduling Algorithm Based on Evolution of Heuristic, arXiv [[Paper](https://arxiv.org/abs/2409.09063)]
+- [24.10] AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.17656)]
+- [25.06] ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering, arXiv [[Paper](https://arxiv.org/abs/2506.09050)]
+- [25.02] ARS: Automatic Routing Solver with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2502.15359)]
+- [24.07] Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models, arXiv [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-70068-2_12)]
+- [25.04] CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2504.04310)]
+- [25.05] A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2505.16952)]
+- [23.12] Can Language Models Solve Graph Problems in Natural Language, arXiv [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/622afc4edf2824a1b6aaf5afe153fa93-Paper-Conference.pdf)]
+- [25.06] OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems, NeruIPS [[Paper](https://arxiv.org/abs/2506.10764)]
+- [25.04] LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics, IEEE TEVC [[Paper](https://arxiv.org/abs/2506.10764)]
+- [24.08] Large Language Models As Evolution Strategies, ACM GECCO [[Paper](https://dl.acm.org/doi/abs/10.1145/3638530.3654238)]
+- [25.03] Large language model-based evolutionary optimizer: Reasoning with elitism, Elsevier IJON [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224020435)]
+- [24.07] Leveraging large language model to generate a novel metaheuristic algorithm with CRISPE framework, ACM CLUSTER COMPUT [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224020435)]
+- [25.03] Large Language Model for Multiobjective Evolutionary Optimization, ACM EMO [[Paper](https://dl.acm.org/doi/abs/10.1007/978-981-96-3538-2_13)]
+- [24.08] Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, ACM ICIC [[Paper](https://dl.acm.org/doi/abs/10.1007/978-981-97-5581-3_18)]
+- [24.12] Large language models as surrogate models in evolutionary algorithms: A preliminary study, Elsevier SWARM EVOL COMPUT [[Paper](https://www.sciencedirect.com/science/article/pii/S2210650224002797)]
+- [25.06] LLMs for Cold-Start Cutting Plane Separator Configuration, Spring Nature Link [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-95976-9_4)]
+- [25.06] SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization, JMLR [[Paper](https://www.jmlr.org/papers/v23/21-0888.html)]
+- [24.07] On Different Methods For Automated MILP Solver Configuration, IEEE OPCS [[Paper](https://ieeexplore.ieee.org/abstract/document/10720437)]
+- [24.10] Large Language Models as Tuning Agents of Metaheuristics, ESANN [[Paper](https://www.esann.org/sites/default/files/proceedings/2024/ES2024-209.pdf)]
+
+
 
 
 
