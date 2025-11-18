@@ -180,6 +180,24 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="SA" />
 
 ## Scene Application
+- [24.07] Investigating the Potential of Using Large Language Models for Scheduling, ACM AIWARE [[Paper](https://dl.acm.org/doi/abs/10.1145/3664646.3665084)]
+- [25.02] Complex LLM Planning via Automated Heuristics Discovery, arXiv [[Paper](https://arxiv.org/abs/2502.19295)]
+- [23.07] Large Language Models for Supply Chain Optimization, arXiv [[Paper](https://arxiv.org/abs/2307.03875)]
+- [24.08] LLMs can Schedule, arXiv [[Paper](https://arxiv.org/abs/2408.06993)]
+- [24.10] Automatic programming via large language models with population self-evolution for dynamic job shop scheduling problem, arXiv [[Paper](https://arxiv.org/abs/2410.22657)]
+- [25.05] Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems, ICLR 2025 Workshop AgenticAI Oral [[Paper](https://openreview.net/forum?id=EVqlVjvlt8)]
+- [25.07] Can LLM Be a Good Path Planner Based on Prompt Engineering? Mitigating the Hallucination for Path Planning, Spring Nature Link [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-0014-7_1)]
+- [25.01] Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design, arXiv [[Paper](https://arxiv.org/abs/2501.08603)]
+- [23.10] Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning, arXiv [[Paper](https://arxiv.org/abs/2310.03249)]
+- [25.06] ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention, arXiv [[Paper](https://arxiv.org/abs/2506.11052)]
+- [23.11] Can language models be used for real-world urban-delivery route optimization?, Spring Nature Link [[Paper](https://www.sciencedirect.com/science/article/pii/S2666675823001480)]
+- [24.05] Open-ti: open traffic intelligence with augmented language model, Elsevier Innovat [[Paper](https://link.springer.com/article/10.1007/s13042-024-02190-8)]
+- [24.06] TRIP-PAL: Travel Planning with Guarantees by Combining Large Language Models and Automated Planners, arXiv [[Paper](https://arxiv.org/abs/2406.10196)]
+- [24.10] To the Globe (TTG): Towards Language-Driven Guaranteed Travel Planning, arXiv [[Paper](https://arxiv.org/abs/2410.16456)]
+- [24.01] Integrating Large Language Models and Optimization in Semi-Structured Decision Making: Methodology and a Case Study, IRIS [[Paper](https://iris.unisalento.it/handle/11587/544832)]
+- [25.03] How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, IEEE MCII [[Paper](https://ieeexplore.ieee.org/abstract/document/11032980)]
+- [24.10] How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Smart Cities [[Paper](https://impact.ornl.gov/en/publications/towards-next-generation-urban-decision-support-systems-through-ai/)]
+- [24.10] How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems, Smart Cities [[Paper](https://impact.ornl.gov/en/publications/towards-next-generation-urban-decision-support-systems-through-ai/)]
 
 
 
