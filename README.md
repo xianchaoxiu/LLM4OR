@@ -19,7 +19,7 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="Surveys" />
 
 ## Surveys 
-- [2025.01] Machine learning method for combinatorial optimization problems, SCIENTIA SINICA Mathematica [[Paper](https://www.sciengine.com/SSM/doi/10.1360/SSM-2024-0180)]
+- [2025.01] Machine Learning Method for Combinatorial Optimization Problems, SCIENTIA SINICA Mathematica [[Paper](https://www.sciengine.com/SSM/doi/10.1360/SSM-2024-0180)]
 - [2025.07] Large Language Models for Combinatorial Optimization: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
 - [2025.08] A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2508.10047)]
 - [2025.09] Systematic Survey on Large Language Models for Evolutionary Optimization:From Modeling to Solving, arXiv [[Paper](https://arxiv.org/abs/2509.08269)]
