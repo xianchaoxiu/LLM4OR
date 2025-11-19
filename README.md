@@ -19,7 +19,7 @@ I currently focus on leveraging large language models for optimization, includin
 <a name="Surveys" />
 
 ## Surveys 
-- [2025.01] 组合优化问题的机器学习求解方法, 中国科学：数学 [[Paper](https://kns.cnki.net/kcms2/article/abstract?v=0eC8MkjONMF22O_8ZV904QG42sq6G1NnD79RJp0mZIiDXOkm6HD5KA8AS-kLes3XlqFkt9Hf5i929LNNlS7Mb52hOu3WsmRoOawCQgDETQos3OQpJJPknKu2VDheCI807svvuHH1lSny6qFVbkxWa0kcgGme3wppLp02a9gttJx8Q2elwl9FQQ==&uniplatform=NZKPT&language=CHS)]
+- [2025.01] 组合优化问题的机器学习求解方法, 中国科学：数学 [[Paper](https://www.sciengine.com/SSM/doi/10.1360/SSM-2024-0180)]
 - [2025.07] Large Language Models for Combinatorial Optimization: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
 - [2025.08] A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2508.10047)]
 - [2025.09] Systematic Survey on Large Language Models for Evolutionary Optimization:From Modeling to Solving, arXiv [[Paper](https://arxiv.org/abs/2509.08269)]
