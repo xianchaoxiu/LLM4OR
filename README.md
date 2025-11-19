@@ -6,7 +6,7 @@ I currently focus on leveraging large language models for optimization, includin
 - [Model Construction](#MO)
 - [Algorithm Design](#AD)
 - [Solution Verification](#SV)
-- [Application](#SA)
+- [Applications](#SA)
 
  
   
