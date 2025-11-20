@@ -20,7 +20,7 @@ I currently focus on leveraging large language models for optimization, includin
 
 ## Surveys 
 - [2025.09] Systematic Survey on Large Language Models for Evolutionary Optimization:From Modeling to Solving, arXiv [[Paper](https://arxiv.org/abs/2509.08269)]
-- [2025.09] Large Language Models and Operations Research: A Structured Survey,, arXiv [[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract)]
+- [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract)]
 - [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper]([https://arxiv.org/abs/2509.08269](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract))]
 - [2025.08] A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2508.10047)]
 - [2025.07] Large Language Models for Combinatorial Optimization: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
