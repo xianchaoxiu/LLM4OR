@@ -2,10 +2,10 @@
 
 
 I currently focus on leveraging large language models for optimization, including
-- [Survey](#Survey)
-- [Model](#MO)
-- [Algorithm](#AD)
-- [Verification](#SV)
+- [Surveys](#Surveys)
+- [Model Construction](#MO)
+- [Algorithm Design](#AD)
+- [Solution Verification](#SV)
 - [Application](#SA)
 
  
@@ -16,9 +16,9 @@ I currently focus on leveraging large language models for optimization, includin
 
 
 
-<a name="Survey" />
+<a name="Surveys" />
 
-## Survey
+## Surveys
 - [2025.09] Systematic Survey on Large Language Models for Evolutionary Optimization:From Modeling to Solving, arXiv [[Paper](https://arxiv.org/abs/2509.08269)]
 - [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract)]
 - [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper]([https://arxiv.org/abs/2509.08269](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract))]
@@ -43,7 +43,7 @@ I currently focus on leveraging large language models for optimization, includin
 
 <a name="MO" />
 
-## Model
+## Model Construction
 - [2025.07] Auto-Formulating Dynamic Programming Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2507.11737)]
 - [2025.06] LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach, SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)]
 - [2025.06] CP-Bench: Evaluating Large Language Models for Constraint Modelling, arXiv [[Paper](https://arxiv.org/abs/2506.06052)]
@@ -92,7 +92,7 @@ I currently focus on leveraging large language models for optimization, includin
 
 <a name="AD" />
 
-## Algorithm
+## Algorithm Design
 - [2025.06] EALG: Evolutionary Adversarial Generation of Language Model-Guided Generators for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.02594)]
 - [2025.06] STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.11057)]
 - [2025.06] ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering, arXiv [[Paper](https://arxiv.org/abs/2506.09050)]
@@ -137,7 +137,7 @@ I currently focus on leveraging large language models for optimization, includin
 
 <a name="SV" />
 
-## Verification
+## Solution Verification
 - [2025.10] CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2510.04204)]
 - [2025.08] Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, ACM SIGKDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3736923)]
 - [2025.07] Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms, ACM GECCO [[Paper](https://dl.acm.org/doi/abs/10.1145/3712256.3726328)]
