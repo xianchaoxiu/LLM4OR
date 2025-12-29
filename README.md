@@ -1,4 +1,4 @@
-# Large Language Models for Optimization
+# Large Language Models for Operations Research
 
 
 I currently focus on leveraging large language models for optimization, including
