@@ -10,7 +10,7 @@ I currently focus on leveraging large language models for operations research, i
 
  
   
-<strong> Last Update: 2025/12/20 </strong>
+<strong> Last Update: 2026/02/28 </strong>
 
 
 
@@ -19,21 +19,24 @@ I currently focus on leveraging large language models for operations research, i
 <a name="Surveys" />
 
 ## Surveys
+- [2026.02] A Systematic Survey on Large Language Models for Algorithm Design, ACM CSUR [[Paper](https://dl.acm.org/doi/full/10.1145/3787585)]
+- [2026.01] A Survey on Large Language Models for Code Generation, ACM TOSEM [[Paper](https://dl.acm.org/doi/full/10.1145/3747588)]
+- [2025.11] Artificial intelligence for optimization: Unleashing the potential of parameter generation, model formulation, and solution method, EJOR [[Paper](https://arxiv.org/abs/2401.03244)]
+- [2025.11] A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions, IJCAI [[Paper](https://dl.acm.org/doi/abs/10.24963/ijcai.2025/1192)]
 - [2025.10] Large Language Models in Operations Research: Methods, Applications, and Challenges, arXiv [[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract)]
 - [2025.09] A Systematic Survey on Large Language Models for Evolutionary Optimization:From Modeling to Solving, arXiv [[Paper](https://arxiv.org/abs/2509.08269)]
-- [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper]([https://arxiv.org/abs/2509.08269])]
-- [2025.08] A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2508.10047)]
+- [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250918180W/abstract)]
 - [2025.07] Large Language Models for Combinatorial Optimization: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
 - [2025.05] A Survey of LLM × DATA, arXiv [[Paper](https://arxiv.org/abs/2505.18458)]  [[Code](https://github.com/weAIDB/awesome-data-llm)]
 - [2025.04] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
 - [2025.03] A Survey on Mathematical Reasoning and Optimization with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.17726)]
 - [2025.01] Machine Learning Method for Combinatorial Optimization Problems, SCIENTIA SINICA Mathematica [[Paper](https://www.sciengine.com/SSM/doi/10.1360/SSM-2024-0180)]
 - [2024.11] Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization, arXiv [[Paper](https://arxiv.org/abs/2411.00625)]
-- [2024.10] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024.08] Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, IEEE ICIC [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_18)]
 - [2024.07] When Large Language Model Meets Optimization, SWarm and Evolutionary Computation [[Paper](https://www.sciencedirect.com/science/article/pii/S2210650224002013)]
 - [2024.06] Enhancing Decision-Making in Optimization through LLM-Assisted Inference: A Neural Networks Perspective, IEEE IJCNN [[Paper](https://ieeexplore.ieee.org/abstract/document/10649965)]
-- [2024.01] Artificial Intelligence for Operations Research: Revolutionizing the Operations Research Process, arXiv [[Paper](https://arxiv.org/abs/2401.03244)]
+- [2024.03] Large Language Models for Mathematical Reasoning: Progresses and Challenges, EACL [[Paper](https://aclanthology.org/2024.eacl-srw.17/)]
+
 
 
 
@@ -44,47 +47,63 @@ I currently focus on leveraging large language models for operations research, i
 <a name="MO" />
 
 ## Model Construction
+- [2026.01] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/abstract/document/11359290)]
+- [2025.12] OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling, NeurIPS [[Paper](https://openreview.net/forum?id=Ej20yjWMCj)]
+- [2025.11] PARCO: Parallel Autoregressive Models for Multi-Agent Combinatorial Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=9F2Cmgo17M)]
+- [2025.11] OR-R1: Automating Modeling and Solving of Operations Research Optimization Problems via Test-Time Reinforcement Learning, arXiv [[Paper](https://arxiv.org/abs/2511.09092)]
+- [2025.08] Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, KDD [[Paper](https://dl.acm.org/doi/10.1145/3711896.3736923)]
+- [2025.07] EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations, ICML [[Paper](https://proceedings.mlr.press/v267/zhai25a.html)]
 - [2025.07] Auto-Formulating Dynamic Programming Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2507.11737)]
+- [2025.07] Autoformulation of Mathematical Optimization Models Using LLMs, ICML [[Paper](https://proceedings.mlr.press/)]
 - [2025.06] LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach, SSRN [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027)]
 - [2025.06] CP-Bench: Evaluating Large Language Models for Constraint Modelling, arXiv [[Paper](https://arxiv.org/abs/2506.06052)]
 - [2025.05] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, OR [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1233)]
 - [2025.05] OptMATH: A Scalable Bidirectional Data Synthesis Framework for Optimization Modeling, arXiv [[Paper](https://openreview.net/forum?id=9P5e6iE4WK)]
 - [2025.04] OptimAI: Optimization from natural language using LLM-powered ai agents, arXiv [[Paper](https://arxiv.org/abs/2504.16918)]
+- [2025.04] Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming, ICLR [[Paper](https://research.ibm.com/publications/planning-anything-with-rigor-general-purpose-zero-shot-planning-with-llm-based-formalized-programming)]
 - [2025.04] Evaluating LLM Reasoning in the Operations Research Domain with ORQA, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34673)]
+- [2025.04] OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, ICLR [[Paper](https://openreview.net/forum?id=fsDZwS49uY)]
+- [2025.03] Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2503.13813)]
 - [2025.03] OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problems with Reasoning LLM, arXiv [[Paper](https://arxiv.org/abs/2503.10009)]
 - [2025.03] Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc, arXiv [[Paper](https://arxiv.org/abs/2503.10642)]
-- [2025.02] EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations, arXiv [[Paper](https://arxiv.org/abs/2502.14760)]
 - [2025.02] Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR, Openreview [[Paper](https://openreview.net/forum?id=aapUBU9U0D)]
 - [2025.01] DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints, ICLR [[Paper](https://openreview.net/forum?id=s9zoyICZ4k)]
-- [2025.01] OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2309.13218)]
 - [2025.01] LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch, ICLR [[Paper](https://openreview.net/forum?id=9OMvtboTJg)]
+- [2024.12] Robust and Adaptive Optimization under a Large Language Model Lens, arXiv [[Paper](https://arxiv.org/abs/2501.00568)]
 - [2024.11] Large Language Models for Combinatorial Optimization of Design Structure Matrix, arXiv [[Paper](https://arxiv.org/abs/2411.12571)]
 - [2024.10] Towards foundation models for mixed integer linear programming, arXiv [[Paper](https://arxiv.org/abs/2410.08288)]
-- [2024.10] Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming, arXiv [[Paper](https://arxiv.org/abs/2410.12112)]
+- [2024.09] KTO: Model Alignment as Prospect Theoretic Optimization, ICML [[Paper](https://proceedings.mlr.press/v235/ethayarajh24a.html)]
 - [2024.08] LM4OPT: Unveiling the potential of large language models in formulating mathematical optimization problems, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2388452)]
 - [2024.08] Optimization modeling and verification from problem specifications using a multi-agent multi-stage LLM framework, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2381306)]
 - [2024.07] “I Want It That Way”: Enabling Interactive Decision Support Using Large Language Models and Constraint Programming, TIIS [[Paper](https://dl.acm.org/doi/abs/10.1145/3685053)]
 - [2024.07] Leveraging Large Language Models for Solving Rare MIP Challenges, arXiv [[Paper](https://arxiv.org/abs/2409.04464)]
 - [2024.07] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://arxiv.org/abs/2407.19633)]
 - [2024.06] Progressive-Hint Prompting Improves Reasoning in Large Language Models, ICML [[Paper](https://openreview.net/forum?id=UkFEs3ciz8&noteId=UkFEs3ciz8)]
-- [2024.03] LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation, arXiv [[Paper](https://arxiv.org/abs/2403.01131)]
+- [2024.05] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://openreview.net/forum?id=YT1dtdLvSN)]
+- [2024.05] Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo, arXiv [[Paper](https://arxiv.org/abs/2405.01997)]
+- [2024.02] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.03300)]
 - [2024.02] Graph of Thoughts: Solving Elaborate Problems with Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29720)]
 - [2024.02] Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, ICLR [[Paper](https://openreview.net/forum?id=HobyL1B9CZ)]
 - [2024.01] Solving General Natural-Language-Description Optimization Problems with Large Language Models, NAACL [[Paper](https://openreview.net/forum?id=9P5e6iE4WK)]
 - [2023.12] NL4Opt competition: Formulating optimization problems based on their natural language descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a/ramamonjison23a.pdf)]
+- [2023.12] Direct Preference Optimization: Your Language Model Is Secretly a Reward Model, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html)]
 - [2023.12] Tree of thoughts: Deliberate problem solving with large language models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)]
+- [2023.11] Synthesizing Mixed-Integer Linear Programming Models from Natural Language Descriptions, arXiv [[Paper](https://arxiv.org/abs/2311.15271)]
 - [2023.11] Dagnosing infeasible optimization problems using large language models, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2385189)]
 - [2023.09] Language Models for Business Optimisation with a Real World Case Study in Production Scheduling, arXiv [[Paper](https://arxiv.org/abs/2309.13218)]
 - [2023.08] Highlighting named entities in input for auto-formulation of optimization problems, CICM [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-42753-4_9)]
 - [2023.08] Holy Grail 2.0: From natural language to constraint models, arXiv [[Paper](https://arxiv.org/abs/2308.01589)]
-- [2023.02] A novel approach for auto-formulation of optimization problems,, arXiv [[Paper](https://arxiv.org/abs/2302.04643)]
+- [2023.02] A novel approach for auto-formulation of optimization problems, arXiv [[Paper](https://arxiv.org/abs/2302.04643)]
 - [2023.02] ReAct: Synergizing Reasoning and Acting in Language Models, ICLR [[Paper](https://openreview.net/forum?id=WE_vluYUL-X)]
 - [2023.01] Opd@ NL4Opt: An ensemble approach for the ner task of the optimization problem, arXiv [[Paper](https://arxiv.org/abs/2301.02459)]
 - [2022.12] VTCC-NLP at NL4Opt competition subtask 1: An ensemble pre-trained language models for named entity recognition, arXiv [[Paper](https://arxiv.org/abs/2212.07219)]
 - [2022.12] Linear programming word problems formulation using ensemblecrf NER labeler and T5 text generator with data augmentations, arXiv [[Paper](https://arxiv.org/abs/2212.14657)]
 - [2022.12] Tag embedding and well-defined intermediate representation improve auto-formulation of problem description, arXiv [[Paper](https://arxiv.org/abs/2212.03575)]
 - [2022.12] Augmenting operations research with auto-formulation of optimization models from problem descriptions, ACL EMNLP [[Paper](https://aclanthology.org/2022.emnlp-industry.4/)]
-- [2022.11] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)]
+- [2022.11] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Pap_)]()
+
+
+
 
 
 
@@ -93,6 +112,7 @@ I currently focus on leveraging large language models for operations research, i
 <a name="AD" />
 
 ## Algorithm Design
+- [2025.08] Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, KDD [[Paper](https://dl.acm.org/doi/10.1145/3711896.3736923)]
 - [2025.06] EALG: Evolutionary Adversarial Generation of Language Model-Guided Generators for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.02594)]
 - [2025.06] STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.11057)]
 - [2025.06] ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering, arXiv [[Paper](https://arxiv.org/abs/2506.09050)]
@@ -112,6 +132,7 @@ I currently focus on leveraging large language models for operations research, i
 - [2025.04] Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning, arXiv [[Paper](https://arxiv.org/abs/2504.05108)]
 - [2025.04] CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2504.04310)]
 - [2025.04] LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics, IEEE TEVC [[Paper](https://arxiv.org/abs/2506.10764)]
+- [2025.03] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
 - [2025.03] Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms, arXiv [[Paper](https://arxiv.org/abs/2503.10968)]
 - [2025.03] PAIR: A Novel Large Language Model-Guided Selection Strategy for Evolutionary Algorithms, PPSN [[Paper](https://arxiv.org/abs/2503.03239)]
 - [2025.03] Large language model-based evolutionary optimizer: Reasoning with elitism, Elsevier IJON [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224020435)]
@@ -129,7 +150,28 @@ I currently focus on leveraging large language models for operations research, i
 - [2024.10] AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.17656)]
 - [2024.10] Large Language Models as Tuning Agents of Metaheuristics, ESANN [[Paper](https://www.esann.org/sites/default/files/proceedings/2024/ES2024-209.pdf)]
 - [2024.09] TS-EoH: An Edge Server Task Scheduling Algorithm Based on Evolution of Heuristic, arXiv [[Paper](https://arxiv.org/abs/2409.09063)]
-- [2024.08] Large language model-enhanced algorithm selection: towards comprehensive algorithm representation, ACM IJCAI [[Paper](https://dl.ac)]()
+- [2024.08] Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, ICIC [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_18)]
+- [2024.08] Large language model-enhanced algorithm selection: towards comprehensive algorithm representation, ACM IJCAI [[Paper](https://dl.ac)]
+- [2024.07] Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, ICML [[Paper](https://openreview.net/forum?id=BwAkaxqiLB)]
+- [2024.07] Large Language Models as Evolution Strategies, GECCO Companion [[Paper](https://dl.acm.org/doi/10.1145/3638530.3654187)]
+- [2024.05] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
+- [2024.04] On Different Methods for Automated MILP Solver Configuration, IEEE OPCS [[Paper](https://ieeexplore.ieee.org/document/XXXXXXXX)]
+- [2024.02] AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.10705)]
+- [2024.01] Mathematical Discoveries from Program Search with Large Language Models, Nature [[Paper](https://www.nature.com/articles/s41586-023-06747-5)]
+- [2024.01] Leveraging Large Language Model to Generate a Novel Metaheuristic Algorithm with CRISPE Framework, Cluster Computing [[Paper](https://link.springer.com/article/10.1007/s10586-024-04567-1)]
+- [2023.12] Using Large Language Models for Hyperparameter Optimization, NeurIPS [[Paper](https://openreview.net/forum?id=FUdZ6HEOre)]
+- [2023.12] Importance of Directional Feedback for LLM-Based Optimizers, NeurIPS [[Paper](https://openreview.net/forum?id=QW4eGh5GT3)]
+- [2023.11] Evolution through Large Models, Springer [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-3814-8_11)]
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -138,28 +180,58 @@ I currently focus on leveraging large language models for operations research, i
 <a name="SV" />
 
 ## Solution Verification
+
 - [2025.10] CALM Before the STORM: Unlocking Native Reasoning for Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2510.04204)]
 - [2025.08] Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models, ACM SIGKDD [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3736923)]
 - [2025.07] Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms, ACM GECCO [[Paper](https://dl.acm.org/doi/abs/10.1145/3712256.3726328)]
+- [2025.07] Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms, ACM GECCO [[Paper](https://dl.acm.org/doi/abs/10.1145/3712256.3726328)]
+- [2025.06] STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.11057)]
+- [2025.06] ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering, arXiv [[Paper](https://arxiv.org/abs/2506.09050)]
 - [2025.06] HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.07972)]
 - [2025.06] REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2506.07972)]
 - [2025.06] HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges, arXiv [[Paper](https://arxiv.org/abs/2506.15196)]
 - [2025.06] ORMind: A Cognitive-Inspired End-to-End Reasoning Framework for Operations Research, arXiv [[Paper](https://arxiv.org/abs/2506.01326)]
+- [2025.05] Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization, arXiv [[Paper](https://arxiv.org/abs/2505.20881)]
+- [2025.05] CALM: Co-evolution of Algorithms and Language Model for Automatic Heuristic Design, arXiv [[Paper](https://arxiv.org/abs/2505.12285)]
+- [2025.05] RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2505.20242)]
+- [2025.05] A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2505.16952)]
 - [2025.05] Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2505.11792)]
+- [2025.04] In-the-loop Hyper-Parameter Optimization for LLM-Based Automated Design of Heuristics, ACM TELO [[Paper](https://arxiv.org/abs/2311.15249)]
+- [2025.04] Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning, arXiv [[Paper](https://arxiv.org/abs/2504.05108)]
+- [2025.04] HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34898)]
+- [2025.04] CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2504.04310)]
+- [2025.04] Multi-Objective Evolution of Heuristic Using Large Language Model, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34922)]
+- [2025.04] Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search, arXiv [[Paper](https://arxiv.org/abs/2504.19636)]
 - [2025.04] OptimAI: Optimization from natural language using LLM-powered ai agents, arXiv [[Paper](https://arxiv.org/abs/2504.16918)]
+- [2025.03] Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms, arXiv [[Paper](https://arxiv.org/abs/2503.10968)]
+- [2025.03] PAIR: A Novel Large Language Model-Guided Selection Strategy for Evolutionary Algorithms, PPSN [[Paper](https://arxiv.org/abs/2503.03239)]
+- [2025.03] Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2503.03350)]
 - [2025.02] Abstract Operations Research Modeling Using Natural Language Inputs, MDPI Information [[Paper](https://www.mdpi.com/2078-2489/16/2/128)]
+- [2025.02] Improving Existing Optimization Algorithms with LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.08298)]
+- [2025.02] GraphThought: Graph Combinatorial Optimization with Thought Generation, arXiv [[Paper](https://arxiv.org/abs/2502.11607)]
+- [2025.02] ARS: Automatic Routing Solver with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2502.15359)]
 - [2025.02] MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications, arXiv [[Paper](https://arxiv.org/abs/2502.18540)]
+- [2024.12] LLM4AD: A Platform for Algorithm Design with Large Language Model, arXiv [[Paper](https://arxiv.org/abs/2412.17287)]
+- [2024.12] QUBE: Enhancing Automatic Heuristic Design via Quality-Uncertainty Balanced Evolution, arXiv [[Paper](https://arxiv.org/abs/2412.20694)]
 - [2024.12] Unifying All Species: LLM-based Hyper-Heuristics for Multi-objective Optimization, openreview [[Paper](https://openreview.net/forum?id=sUywd7UhFT)]
+- [2024.10] Deep Insights into Automated Optimization with Large Language Models and Evolutionary Algorithms, arXiv [[Paper](https://arxiv.org/abs/2410.20848)]
+- [2024.10] GCoder: Improving Large Language Model for Generalized Graph Problem Solving, arXiv [[Paper](https://arxiv.org/abs/2410.19084)]
+- [2024.10] AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2410.17656)]
 - [2024.10] Automatic Algorithm Design Assisted by LLMs for Solving Vehicle Routing Problems, IEEE ICSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10846261)]
+- [2024.09] TS-EoH: An Edge Server Task Scheduling Algorithm Based on Evolution of Heuristic, arXiv [[Paper](https://arxiv.org/abs/2409.09063)]
+- [2024.08] Large Language Model-Aided Evolutionary Search for Constrained Multiobjective Optimization, ICIC [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_18)]
+- [2024.08] Large language model-enhanced algorithm selection: towards comprehensive algorithm representation, ACM IJCAI [[Paper](https://dl.ac)]
 - [2024.08] Optimization modeling and verification from problem specifications using a multi-agent multi-stage LLM framework, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2381306)]
 - [2024.08] From Words to Routes: Applying Large Language Models to Vehicle Routing, CoRR [[Paper](https://openreview.net/forum?id=lmJzeVNyyA)]
+- [2024.07] Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model, ICML [[Paper](https://openreview.net/forum?id=BwAkaxqiLB)]
+- [2024.07] Large Language Models as Evolution Strategies, GECCO Companion [[Paper](https://dl.acm.org/doi/10.1145/3638530.3654187)]
 - [2024.07] OptiMUS-0.3: Using Large Language Models to Model and Solve Optimization Problems at Scale, arXiv [[Paper](https://arxiv.org/abs/2407.19633)]
 - [2024.07] Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges, arXiv [[Paper](https://arxiv.org/abs/2407.00092)]
+- [2024.05] LLM as a Complementary Optimizer to Gradient Descent: A Case Study in Prompt Tuning, arXiv [[Paper](https://arxiv.org/abs/2405.19732)]
+- [2024.02] AutoSAT: Automatically Optimize SAT Solvers via Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.10705)]
 - [2024.02] Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, ICLR [[Paper](https://openreview.net/forum?id=HobyL1B9CZ)]
 - [2023.11] Dagnosing infeasible optimization problems using large language models, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2385189)]
 - [2023.05] Towards an Automatic Optimisation Model Generator Assisted with Generative Pre-trained Transformer, arXiv [[Paper](https://arxiv.org/abs/2305.05811)]
-
-
 
 
 
@@ -196,7 +268,7 @@ I currently focus on leveraging large language models for operations research, i
 - [2024.08] From Words to Routes: Applying Large Language Models to Vehicle Routing, CoRR [[Paper](https://openreview.net/forum?id=lmJzeVNyyA)]
 - [2024.08] Preference Elicitation and Incorporation for Human-Robot Task Scheduling, IEEE CASE [[Paper](https://ieeexplore.ieee.org/abstract/document/10711695)]
 - [2024.08] Protein Design by Directed Evolution Guided by Large Language Models, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/abstract/document/10628050)]
-- [2024.08] Combining Constraint Programming Reasoning with Large Language Model Predictions, CP 2024 [[Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.25)]
+- [2024.08] Combining Constraint Programming Reasoning with Large Language Model Predictions, CP [[Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.25)]
 - [2024.07] Investigating the Potential of Using Large Language Models for Scheduling, ACM AIWARE [[Paper](https://dl.acm.org/doi/abs/10.1145/3664646.3665084)]
 - [2024.07] Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges, arXiv [[Paper](https://arxiv.org/abs/2407.00092)]
 - [2024.07] Democratizing Energy Management with LLM-Assisted Optimization Autoformalism, IEEE SmartGridComm [[Paper](https://ieeexplore.ieee.org/abstract/document/10738100)]
@@ -213,6 +285,36 @@ I currently focus on leveraging large language models for operations research, i
 - [2023.10] Can Large Language Models be Good Path Planners?, arXiv [[Paper](https://arxiv.org/abs/2310.03249)]
 - [2023.07] Large Language Models for Supply Chain Optimization, arXiv [[Paper](https://arxiv.org/abs/2307.03875)]
 - [2023.07] Robot-Enabled Construction Assembly with Automated Sequence Planning Based on ChatGPT: RoboGPT, MDPI Buildings [[Paper](https://www.mdpi.com/2075-5309/13/7/1772)]
+
+<a name="DS" />
+
+## Dataset
+- [2025.10] ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2510.27610)]
+- [2025.07] Auto-Formulating Dynamic Programming Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2507.11737)]
+- [2025.06] CP-Bench: Evaluating Large Language Models for Constraint Modelling, arXiv [[Paper](https://arxiv.org/abs/2506.06052)]
+- [2025.06] ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering, arXiv [[Paper](https://arxiv.org/abs/2506.09050)]
+- [2025.06] HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2506.07972)]
+- [2025.06] OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems, arXiv [[Paper](https://arxiv.org/abs/2506.10764)]
+- [2025.05] ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling, OR [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1233)]
+- [2025.05] A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2505.16952)]
+- [2025.04] OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, ICLR [[Paper](https://openreview.net/forum?id=fsDZwS49uY)]
+- [2025.04] LLMs for Mathematical Modeling: Towards Bridging the Gap between Natural and Mathematical Languages, NAACL [[Paper](https://aclanthology.org/2025.findings-naacl.146/)]
+- [2025.04] Decision Information Meets Large Language Models: The Future of Explainable Operations Research, ICLR [[Paper](https://openreview.net/forum?id=ICLR2025)]
+- [2025.04] GraphArena: Evaluating and Exploring Large Language Models on Graph Computation, ICLR [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/77fa8253adfc8b33209639f3e9985741-Abstract-Conference.html)]
+- [2025.04] OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling, ICLR [[Paper](https://openreview.net/forum?id=fsDZwS49uY)]
+- [2025.04] CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization, arXiv [[Paper](https://arxiv.org/abs/2504.04310)]
+- [2025.03] Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc, arXiv [[Paper](https://arxiv.org/abs/2503.10642)]
+- [2025.02] ARS: Automatic Routing Solver with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2502.15359)]
+- [2025.01] Evaluating LLM Reasoning in the Operations Research Domain with ORQA, AAAI [[Paper](https://arxiv.org/abs/2412.17874)]
+- [2024.08] Optimization modeling and verification from problem specifications using a multi-agent multi-stage LLM framework, INFOR [[Paper](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2381306)]
+- [2024.07] Graph-Enhanced Large Language Models in Asynchronous Plan Reasoning, ICML [[Paper](https://proceedings.mlr.press/)]
+- [2024.05] OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models, ICML [[Paper](https://openreview.net/forum?id=YT1dtdLvSN)]
+- [2024.05] Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-Temporal Reasoning, ICLR [[Paper](https://arxiv.org/abs/2310.03249)]
+- [2024.02] Chain-of-Experts: When LLMs Meet Complex Operations Research Problems, ICLR [[Paper](https://openreview.net/forum?id=HobyL1B9CZ)]
+- [2023.12] Can Language Models Solve Graph Problems in Natural Language?, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/622afc4edf2824a1b6aaf5afe153fa93-Abstract-Conference.html)]
+- [2023.12] NL4Opt competition: Formulating optimization problems based on their natural language descriptions, NeurIPS [[Paper](https://proceedings.mlr.press/v220/ramamonjison23a/ramamonjison23a.pdf)]
+
+
 
 
 
