@@ -9,10 +9,10 @@ I currently focus on leveraging large language models for operations research, i
 - [Application](#SA)
 
  
-  
-<strong> Last Update: 2026/02/28 </strong>
 
 
+> [!IMPORTANT]
+> **Last Update: 2026/02/28 (No longer updated!)**
 
 
 
