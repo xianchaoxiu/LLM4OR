@@ -6,9 +6,9 @@ I currently focus on leveraging large language models for operations research, i
 - [Model Construction](#MO)
 - [Algorithm Design](#AD)
 - [Solution Verification](#SV)
-- [Application](#SA)
+- [Applications](#SA)
+- [Datasets](#DS)
 
- 
 
 
 > [!IMPORTANT]
@@ -238,7 +238,7 @@ I currently focus on leveraging large language models for operations research, i
 
 <a name="SA" />
 
-## Application
+## Applications
 - [2025.07] Can LLM Be a Good Path Planner Based on Prompt Engineering? Mitigating the Hallucination for Path Planning, Spring Nature Link [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-0014-7_1)]
 - [2025.06] ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention, arXiv [[Paper](https://arxiv.org/abs/2506.11052)]
 - [2025.06] HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges, arXiv [[Paper](https://arxiv.org/abs/2506.15196)]
