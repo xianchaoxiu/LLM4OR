@@ -288,7 +288,7 @@ I currently focus on leveraging large language models for operations research, i
 
 <a name="DS" />
 
-## Dataset
+## Datasets
 - [2025.10] ORGEval: Graph-Theoretic Evaluation of LLMs in Optimization Modeling, arXiv [[Paper](https://arxiv.org/abs/2510.27610)]
 - [2025.07] Auto-Formulating Dynamic Programming Problems with Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2507.11737)]
 - [2025.06] CP-Bench: Evaluating Large Language Models for Constraint Modelling, arXiv [[Paper](https://arxiv.org/abs/2506.06052)]
